@@ -1,0 +1,8 @@
+port:
+  backend: 5008
+  frontend: 3000
+host:
+  backend: 0.0.0.0
+  frontend: 0.0.0.0
+baidu_map:
+  access_key: GVAi0lyQzh6UA5mMX6aklqjMZAZMFzG1
